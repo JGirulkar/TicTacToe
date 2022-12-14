@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tic tac toe</string>
+    <string name="Welcome">Let\'s play</string>
+    <string name="description">x or o</string>
+    <string name="h2">Tap to play</string>
+    <!--    <string name="grid1">c0</string>-->
+<!--    <string name="grid2">c1</string>-->
+<!--    <string name="grid3">c2</string>-->
+<!--    <string name="grid4">c3</string>-->
+<!--    <string name="grid5">c4</string>-->
+<!--    <string name="grid6">c5</string>-->
+<!--    <string name="grid7">c6</string>-->
+<!--    <string name="grid8">c7</string>-->
+<!--    <string name="grid9">c8</string>-->
+</resources>
